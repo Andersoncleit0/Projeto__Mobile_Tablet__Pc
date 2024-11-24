@@ -9,7 +9,7 @@
 #### 🔹Marque esse projeto com uma ⭐
 
 
-### Analisando nosso repositório!
+### Analisando repositório!
 ---
 
 <h2>�� Sobre</h2>
