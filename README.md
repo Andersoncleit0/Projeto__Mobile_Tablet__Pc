@@ -15,6 +15,7 @@
 <h2>�� Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 <p>Projeto desenvolvido 100% em um celular com o Acode.</p>
+<p>Trabalhando em melhorias</p>
 
 ## �� Tecnologias
 <div>
